@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "brand": "Tata",
+    "name": "Tata Nexon",
+    "price": 800000,
+    "fuel": "Petrol",
+    "seating": 5,
+    "image": "nexon.jpg"
+  },
+  {
+    "id": 2,
+    "brand": "Hyundai",
+    "name": "Hyundai Creta",
+    "price": 1100000,
+    "fuel": "Diesel",
+    "seating": 5,
+    "image": "creta.jpg"
+  },
+  {
+    "id": 3,
+    "brand": "Mahindra",
+    "name": "Mahindra Thar",
+    "price": 1500000,
+    "fuel": "Diesel",
+    "seating": 4,
+    "image": "thar.jpg"
+  },
+  {
+    "id": 4,
+    "brand": "Maruti Suzuki",
+    "name": "Maruti Suzuki Baleno",
+    "price": 850000,
+    "fuel": "Petrol",
+    "seating": 5,
+    "image": "baleno.jpg"
+  },
+  {
+    "id": 5,
+    "brand": "Kia",
+    "name": "Kia Seltos",
+    "price": 1200000,
+    "fuel": "Petrol",
+    "seating": 5,
+    "image": "seltos.jpg"
+  },
+  {
+    "id": 6,
+    "brand": "Toyota",
+    "name": "Toyota Innova Crysta",
+    "price": 2100000,
+    "fuel": "Diesel",
+    "seating": 7,
+    "image": "innova.jpg"
+  },
+  {
+    "id": 7,
+    "brand": "MG",
+    "name": "MG Hector",
+    "price": 1600000,
+    "fuel": "Petrol",
+    "seating": 5,
+    "image": "hector.jpg"
+  },
+  {
+    "id": 8,
+    "brand": "Honda",
+    "name": "Honda City",
+    "price": 1150000,
+    "fuel": "Petrol",
+    "seating": 5,
+    "image": "city.jpg"
+  },
+  {
+    "id": 9,
+    "brand": "Tata",
+    "name": "Tata Punch",
+    "price": 700000,
+    "fuel": "Petrol",
+    "seating": 5,
+    "image": "punch.jpg"
+  },
+  {
+    "id": 10,
+    "brand": "Mahindra",
+    "name": "Mahindra XUV700",
+    "price": 2000000,
+    "fuel": "Diesel",
+    "seating": 7,
+    "image": "xuv700.jpg"
+  },
+  {
+    "id": 11,
+    "brand": "Hyundai",
+    "name": "Hyundai i20",
+    "price": 950000,
+    "fuel": "Petrol",
+    "seating": 5,
+    "image": "i20.jpg"
+  },
+  {
+    "id": 12,
+    "brand": "Maruti Suzuki",
+    "name": "Maruti Suzuki Swift",
+    "price": 830000,
+    "fuel": "Petrol",
+    "seating": 5,
+    "image": "swift.jpg"
+  },
+  {
+    "id": 13,
+    "brand": "Tata",
+    "name": "Tata Tiago",
+    "price": 680000,
+    "fuel": "Petrol",
+    "seating": 5,
+    "image": "tiago.jpg"
+  },
+  {
+    "id": 14,
+    "brand": "Toyota",
+    "name": "Toyota Fortuner",
+    "price": 3500000,
+    "fuel": "Diesel",
+    "seating": 7,
+    "image": "fortuner.jpg"
+  },
+  {
+    "id": 15,
+    "brand": "Kia",
+    "name": "Kia Sonet",
+    "price": 1000000,
+    "fuel": "Petrol",
+    "seating": 5,
+    "image": "sonet.jpg"
+  },
+  {
+    "id": 16,
+    "brand": "Mahindra",
+    "name": "Mahindra Scorpio N",
+    "price": 1800000,
+    "fuel": "Diesel",
+    "seating": 7,
+    "image": "scorpio.jpg"
+  },
+  {
+    "id": 17,
+    "brand": "Honda",
+    "name": "Honda Amaze",
+    "price": 900000,
+    "fuel": "Petrol",
+    "seating": 5,
+    "image": "amaze.jpg"
+  },
+  {
+    "id": 18,
+    "brand": "MG",
+    "name": "MG Astor",
+    "price": 1400000,
+    "fuel": "Petrol",
+    "seating": 5,
+    "image": "astor.jpg"
+  },
+  {
+    "id": 19,
+    "brand": "Hyundai",
+    "name": "Hyundai Venue",
+    "price": 1000000,
+    "fuel": "Petrol",
+    "seating": 5,
+    "image": "venue.jpg"
+  },
+  {
+    "id": 20,
+    "brand": "Maruti Suzuki",
+    "name": "Maruti Suzuki Fronx",
+    "price": 1100000,
+    "fuel": "Petrol",
+    "seating": 5,
+    "image": "fronx.jpg"
+  }
+]
