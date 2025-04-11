@@ -30,18 +30,21 @@ npm start
 
 
 ###  📡 API & Images
-Car data is fetched from a MockAPI endpoint (already set up by me)
-Car images are loaded from the src/assets/cars folder
+- Car data is fetched from a MockAPI endpoint (already set up by me)
+- Car images are loaded from the src/assets/cars folder
 
 ✅ No additional API setup is required
 
 
 ###   📸 Technologies Used
+- React.js (with React Router)
+- Tailwind CSS
+- MockAPI.io
+- LocalStorage
 
-React.js (with React Router)
-Tailwind CSS
-MockAPI.io
-LocalStorage
+
+
+
 
 
 
