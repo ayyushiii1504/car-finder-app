@@ -89,7 +89,7 @@ function App() {
 
   return (
     <Router>
-      <div className={dark ? 'bg-zinc-900 text-white min-h-screen' : 'bg-rose-50 min-h-screen'}>
+      <div className={dark ? 'bg-zinc-900 text-white min-h-screen' : 'bg-blue-50 min-h-screen'}>
         <header className="bg-white dark:bg-gray-800 shadow sticky top-0 z-50">
           <div className="max-w-7xl mx-auto px-4 py-4 flex justify-between items-center">
             <h1 className="text-2xl font-bold text-gray-900 dark:text-white">🚗 Car Finder</h1>
